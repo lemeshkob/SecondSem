@@ -1,2 +1,0 @@
-# SecondSem
-SOME README
